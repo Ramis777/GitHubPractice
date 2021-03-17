@@ -6,5 +6,7 @@ public class MasterBranch {
 
 
         System.out.println("Zhyldyz");
+        System.out.println("Nargiza");
+
     }
 }
